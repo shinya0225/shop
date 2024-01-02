@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Shinya's Restaurant</title>
+    <title>Shinya's 1Restaurant</title>
 </head>
 <body>
     <header>
